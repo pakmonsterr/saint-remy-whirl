@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: e85ee612fcf4caf4ab42024a075b2c1a
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: -3101860874226023937
+    second: whirl R|LightAction
+  - first:
+      74: 5467779744663730483
+    second: whirl R|whirl LAction
+  - first:
+      74: 1330404251250867806
+    second: whirl R|whirl LAction.001
+  - first:
+      74: 6410846280539977854
+    second: whirl R|whirl LAction.002
+  - first:
+      74: 859377247265388971
+    second: whirl R|whirl RAction
+  - first:
+      74: 8470281555660963644
+    second: whirl R|whirl RAction.001
+  - first:
+      74: -6225247802586622234
+    second: whirl R|whirl RAction.002
+  - first:
+      74: 1680827619416820311
+    second: whirl R|whirl RAction.003
+  - first:
+      74: 6029925493554647449
+    second: whirl L|LightAction
+  - first:
+      74: -8563107679938841089
+    second: whirl L|whirl LAction
+  - first:
+      74: 7015614736543733082
+    second: whirl L|whirl LAction.001
+  - first:
+      74: -5671256305064560682
+    second: whirl L|whirl LAction.002
+  - first:
+      74: -5687761513150488678
+    second: whirl L|whirl RAction
+  - first:
+      74: 6814305025927480663
+    second: whirl L|whirl RAction.001
+  - first:
+      74: 6242764072113887625
+    second: whirl L|whirl RAction.002
+  - first:
+      74: -3778371615938116139
+    second: whirl L|whirl RAction.003
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: starry night
+    second: {fileID: 2100000, guid: dda34a32b13d7e24497b14b467176201, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheat field
+    second: {fileID: 2100000, guid: dc2160e3cfd941b49873bc2e7eeda4fe, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: starry night@2x
+    second: {fileID: 2800000, guid: 6fb2e1f42c8936740ac5f80894454825, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: starry_night
+    second: {fileID: 2800000, guid: b730f386839bafd4187dcc01920f0492, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wheat_field
+    second: {fileID: 2800000, guid: e255f4cf6eec13f4cb55956807023a13, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
